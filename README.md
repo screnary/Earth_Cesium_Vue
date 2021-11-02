@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## To install Vue and Cesium
+```shell
+npm install -g @vue/cli
+vue create vue-cesium
+cd vue-cesium
+npm install cesium
+```
