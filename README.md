@@ -29,5 +29,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install -g @vue/cli
 vue create vue-cesium
 cd vue-cesium
-npm install cesium
+npm install --save
 ```
